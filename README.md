@@ -13,3 +13,8 @@ Have you ever wondered what grades you can get in a Computer Science course ? Ha
   
   These decisions have a significant impact on your college plan, graduation, and even your GPA. 
 </p>
+
+
+<p> Shanil Data Cleaning Details Code + Steps </p>
+<p> Tanmay Data Visualizations with explanantions of the insights </p>
+<p> Siddhesh Model Building with explanations and results </p>
