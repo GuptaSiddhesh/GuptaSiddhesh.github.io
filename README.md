@@ -17,7 +17,14 @@ Have you ever wondered what grades you can get in a Computer Science course ? Ha
 
 <h2> Data Collection</h2>
 <p>
-A student's acadmic records are goverened by many privacy laws, including FERPA. FERPA is a Federal law that protects a student's education records. It may only disclose a student's educational record if he or she has given written consent to do so. We requested for anonymized data from the school, but due to these laws we couldn't get access to such data. We had to do it the harder way - survey people for their data. Then we made a google form to collect grades for each course they took. 
+A student's acadmic records are goverened by many privacy laws, including FERPA. FERPA is a Federal law that protects a student's education records. It may only disclose a student's educational record if he or she has given written consent to do so. We requested for anonymized data from the school, but due to these laws we couldn't get access to such data. We had to do it the harder way - survey people for their data. Then we made a google form to collect grades for each course they took. We made it anonymous so that no personal information is collected and can be linked to a specific student. We relied on the honesty of students to fill out the form. 
+ 
+Important things about the data -
+1. We generally saw a trend that students who performed well in classes shared their data. For most of the classes the average grade from the survey was heigher than the overall general average grade. (Tanmay insert teh graph and explain the results)
+2. Student's are allowed to skip certain classes through the help of AP's, high school credits, and Computer Science Exemption exams. We encountered such data and we had no way to determine which grade to assign the student. We made a general assumption to take these as B+ grades, which according to university policy means Good Mastery of the subject. This was done for the following courses - CMSC 131, CMSC 132, CMSC 216, CMSC 250, MATH 140, and MATH 141. 
+3. There were cases where students didn't want to share the results/grades on a particular course. To deal with this, we averaged the grades in other courses that the student took and entered that value instead of "Don't want to share".
+4. There were some students who didn't attempt certain courses. We ignored such student enteries entirely for certain models depending on the subject.
+5. There were certain edge cases also, which we handled on case to case basis.
 </p>
 
 <p> Shanil Data Cleaning Details Code + Steps </p>
