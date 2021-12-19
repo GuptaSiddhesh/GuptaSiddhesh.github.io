@@ -17,7 +17,7 @@ Have you ever wondered what grades you can get in a Computer Science course ? Ha
 
 <h2> Data Collection</h2>
 <p>
-A student's acadmic records are goverened by many privacy laws, including FERPA. FERPA is a Federal law that protects a student's education records. It allows disclose a students educational records if he or she has given written consent to do so. We requested for anonymized data from the school, but due to these laws we couldn't get access to such data. We had to do it the harder way - survey people for their data. Then we made a google form to collect grades for each course they took. 
+A student's acadmic records are goverened by many privacy laws, including FERPA. FERPA is a Federal law that protects a student's education records. It may only disclose a student's educational record if he or she has given written consent to do so. We requested for anonymized data from the school, but due to these laws we couldn't get access to such data. We had to do it the harder way - survey people for their data. Then we made a google form to collect grades for each course they took. 
 </p>
 
 <p> Shanil Data Cleaning Details Code + Steps </p>
